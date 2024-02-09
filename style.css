@@ -222,7 +222,9 @@ hr{
 }
 .centered{
     position: absolute;
-    top: 50%;
+    width: 860px;
+    height: 108px;
+    top: 40%;
     left: 50%;
     transform: translate(-50%, -50%);
 
